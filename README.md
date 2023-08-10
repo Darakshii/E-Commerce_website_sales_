@@ -1,5 +1,4 @@
 # E-Commerce_website_sales_
-A real world case scenario.
 #Unveiling Customer Behavior Insights: Enhancing E-commerce Success through Advanced Data Analysis
 ![e-commerce-](https://github.com/Darakshii/E-Commerce_website_sales_/assets/130299461/df4d81a6-4d80-4ad7-9330-bb639a35c9eb)
 
